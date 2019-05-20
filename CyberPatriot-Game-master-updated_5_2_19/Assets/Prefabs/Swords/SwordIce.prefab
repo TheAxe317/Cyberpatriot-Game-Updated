@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6776849144460488697
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8071664254354888277, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_Name
+      value: SwordIce
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8071664254354888279, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 882aad991bd7b354bb054b1b4ec70df8,
+        type: 3}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 98f4cf0b6dae2d8428d946b7c55d6fe7,
+        type: 3}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0fec5594afa14dd41a01db1cac2b538e,
+        type: 3}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 5364c597104a45841ae34bb2eb81f437,
+        type: 3}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: 5a01fe2ef79d0ce4692932b109242e62,
+        type: 3}
+    - target: {fileID: 6575174103607483010, guid: 2a30ddd54a300d147a3497af26196682,
+        type: 3}
+      propertyPath: swordSprites.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 2e201e400f310b0488263fefd28df3a6,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a30ddd54a300d147a3497af26196682, type: 3}
